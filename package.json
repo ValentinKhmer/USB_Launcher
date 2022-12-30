@@ -1,0 +1,30 @@
+{
+  "name": "usb_launcher",
+  "version": "1.0.0",
+  "description": "Software launcher for USB drivers (Windows)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ValentinKhmer",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "inquirer-search-list": "^1.2.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentinKhmer/USB_Launcher.git"
+  },
+  "keywords": [
+    "usb",
+    "inquirer",
+    "software",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/ValentinKhmer/USB_Launcher/issues"
+  },
+  "homepage": "https://github.com/ValentinKhmer/USB_Launcher#readme"
+}
